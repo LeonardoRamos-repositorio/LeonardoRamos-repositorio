@@ -1,7 +1,7 @@
 - 👋 Hola yo soy @LeonardoRamos-repositorio comision 29190
 - 👀 Mis intereses son varios, Modelismo en miniatura, Programación, 
 - 🌱 Actualmente estoy aprendiendo diseño web
-- 💞️ Busco colaborar con lo que pueda en el desarrollo web
+- 💞️ Busco colaborar con lo que pueda en el Desarrollo Web
 - 📫 Contactame al correo electronico llramoss@gmail.com
 
 <!---
